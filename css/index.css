@@ -1,0 +1,249 @@
+
+/* title bar */
+
+	.title_bar {
+		width:954px;
+		height:56px;
+		float:left;
+		background: #ffffff; /* Old browsers */
+		background: -moz-linear-gradient(top,  #ffffff 85%, #7890cd 100%, #b6caff 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(85%,#ffffff), color-stop(100%,#7890cd), color-stop(100%,#b6caff)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #ffffff 85%,#7890cd 100%,#b6caff 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #ffffff 85%,#7890cd 100%,#b6caff 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #ffffff 85%,#7890cd 100%,#b6caff 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  #ffffff 85%,#7890cd 100%,#b6caff 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#b6caff',GradientType=0 ); /* IE6-9 */
+	}
+	
+	.title_bar h1 {
+		color:#153179;
+		font-size:25px;
+		text-align:center;
+		margin-top:10px;
+		
+	}
+	
+	.tagline {
+		opacity:0.6;
+		filter:alpha(opacity=60); /* For IE8 and earlier */
+	}
+	
+	.b_name {
+		text-decoration:underline;
+	}
+	
+	
+/* Slideshow */
+
+	#slideshow img {
+		position:absolute;
+		top:0px;
+		left:0px;
+		z-index:8;
+		border-radius: 0px 0px 5px 0px;
+		-moz-border-radius: 0px 0px 5px 0px; 
+	}
+
+	#slideshow img.active {
+		z-index:10;
+	}
+
+	#slideshow img.last-active {
+		z-index:9;
+	}
+
+	
+/* top content */
+
+	.content_box {
+		position:relative;
+		height:320px;
+		width:954px;
+		float:left;
+		border-bottom: 2px solid #acacac;
+	}
+	.top_text {	
+		position:absolute;
+		top:0px;
+		left:626px;
+		background-color:#f8f8f8;
+		padding:10px;
+		width:306px;
+		height:300px;
+		border-radius: 15px 0px 0px 15px;
+		-moz-border-radius: 15px 0px 0px 15px;
+		z-index:11;
+		border-left: 2px solid #acacac;
+		border-bottom: 2px solid #acacac;
+	}
+	
+	.top_text li {
+		font-size:16px;
+	}
+
+	.top_text p {
+		font-size:16px;
+	}
+	
+	/*.top_text h1 {
+		font-size:22px;
+		color:#7890cd;
+		font-weight:bold;
+		text-align:center;
+		text-decoration:underline;
+	}
+
+	.top_text h2 {
+		font-size:20px;
+		color:#7890cd;
+		font-weight:bold;
+		text-align:center;
+	}*/
+	
+	.top_text ul {
+		padding:0px 10px 0px 20px;
+		margin:0px;
+		width:40%;
+	}
+	
+	.top_text li {
+		font-weight:bold;
+	}
+	
+	
+	.servicebox {
+		width:954px;
+		background-color:#e8eaf1;
+		border-bottom: 2px solid #acacac;
+	}
+
+	.servicebox h2 {
+		/* padding-top:10px; */
+		font-size:20px;
+		color:#153179;
+		font-weight:bold;
+		text-align:center;
+	}
+
+	
+	.servicebox form {
+		border-radius: 15px 0px 0px 0px;
+		-moz-border-radius: 15px 0px 0px 0px;
+		background-color:#e7eeff;
+		width:296px;
+		padding:15px;
+		border-left: 2px solid #acacac;
+		overflow:auto;
+	}
+	
+	.servicebox form h2 {
+		color:red;
+	}
+	
+	.i_length {
+		width:286px;
+	}
+	
+	
+	.servicebox textarea {
+		width:286px;
+		height:180px;
+	}
+	
+	.sbox_text {
+		width:596px;
+		padding:15px;
+
+	}
+	
+	
+	.merit_h {
+		font-size:20px;
+		font-weight:bold;
+		font-style:italic;
+		color:#153179;
+	}
+	
+	.merits {
+		padding:5px 10px 5px 10px;
+		margin-bottom:15px;
+		background-color:#f8f8f8;
+		border-radius: 10px;
+		-moz-border-radius: 10px; 
+	}
+	
+	.mertis h2 {
+
+	}
+		
+	.lrg_text {
+		overflow:auto;
+		width:614px;
+		padding:10px;
+	}
+	
+	.lrg_text h3 a {
+		font-size:16px;
+		text-decoration:none;
+	}
+	
+	.lrg_text ul {
+		width:260px;
+		margin:0px;
+		padding-left:30px;
+
+	}
+	
+	.btest {
+		background-color:#e7eeff;
+		overflow:auto;
+	}
+	
+	.lrg_text li {
+		margin-top:8px;
+		margin-bottom:8px;
+		font-size:16px;
+		font-weight:bold;
+	}
+	
+	
+	
+	.sml_text {
+		padding:10px;
+		overflow:auto;
+		width:298px;
+		background-color:#f8f8f8;
+
+	}
+	
+	/*.sml_text h2 {
+		color:#153179;
+		font-size:20px;
+		text-align:center;
+	}*/ 
+	
+	.sml_text ul {
+		margin: 0px 10px 0px 10px;	
+		padding:0px;
+	}
+	
+	.sml_text li {
+		border:2px solid #b6caff;
+		border-radius: 5px;
+		-moz-border-radius: 5px; 
+		height:51px;		
+		margin-bottom:10px;
+		padding-top:15px;
+		text-decoration:none;
+		list-style:none;
+	}
+	
+	.sml_text li:hover {
+		background-color:#efefef;
+	}
+	
+	.sml_text img {
+		margin:7px;
+		padding-right:5px;
+	
+	}
