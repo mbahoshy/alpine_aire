@@ -117,7 +117,7 @@
 	<div id='page'>
 		<div id ='hb_blue'></div><div id='hb_light'></div>
 		<div id='header' class='gradient' itemscope itemtype="http://www.schema.org/LocalBusiness">
-			<span itemprop='logo'><img src='../images/logo.png'	alt='Alpine Aire Wenatchee Logo'	/></span>
+			<span itemprop='logo'><img src='images/logo.png'	alt='Alpine Aire Wenatchee Logo'	/></span>
 			<div id='callbox' class='gradientcall'>
 				<h4>Call now!</h4>
 				<h5><span itemprop='telephone'>509.662.6846</span></h5>
@@ -135,7 +135,7 @@
 		</div>
 		<div id='main' class='white'>
 			<div class='title_bar'>
-				<h1><span class='b_name'>Alpine Aire Heating and Cooling Inc.</span>&nbsp;&nbsp;&nbsp;&#124;&nbsp;&nbsp;&nbsp;<span class='tagline'><i>Breathe Naturally</i></span></h1>
+				<h1><span class='b_name'>Alpine Aire Heating and Cooling Inc.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#124;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='tagline'><i>Breathe Naturally</i></span></h1>
 			</div>
 			<div class='content_box'>
 				<div id="slideshow">
@@ -145,7 +145,7 @@
 				</div>
 				<div class='top_text'>
 					<p class='center'><i>Proudly serving our family and friends in North Central Washington since 1986.</i></p>
-					<p class='center'>Alpine Aire performs HVAC service, maintenance, and repair in the following areas:</p>
+					<!-- <p class='center'>Alpine Aire performs HVAC service in the following areas:</p> -->
 						<ul class='fleft'>
 							<li>Wenatchee Valley</li>
 							<li>Cashmere</li>
@@ -165,6 +165,16 @@
 
 			<!-- Schedule online -->
 			<div class='servicebox fleft'>
+				<form name='contact_form' class='fleft' action='pages/contact_action.php' onsubmit="return validateForm();" method="post">
+					<h2>Need HVAC Service Now? -- Schedule Fast and Easy Online!</h2>
+					<p><i>Name:</i><br	/><input class='i_length' type="text" name="cf_name"></p>
+					<p><i>Email Address:</i><br	/><input class='i_length' type="text" name="cf_email"></p>
+					<p><i>Phone Number:</i>&nbsp;&nbsp;&nbsp;<input type='text' maxlength='10' name='cf_phone'></p>
+					<p><i>Please briefly describe your problem:</i></p>
+					<p><textarea maxlength='500' name="cf_message"></textarea></p>
+						<input type="submit" value="Send">
+						<input type="reset" value="Clear">
+				</form>
 				<div class='sbox_text fleft'>
 					<h2>Don't take our word... <span class='underline'>Alpine Aire service speaks for itself !</span></h2>
 					<div class='merits'>
@@ -178,16 +188,6 @@
 						<p><span class='merit_h'>"The new infinity system </span>is much much quieter than the old system. The first morning it was installed, I actually walked outside to see if the heat pump was working; <b>it was that quiet.</b> I want to thank you and your team for their professionalism and exprtise in installing the system.<span class='merit_name'>-Henry from East Wenatchee<span class='merit_h'>"</span></span></p>
 					</div>
 				</div>
-				<form name='contact_form' class='fright' action='pages/contact_action.php' onsubmit="return validateForm();" method="post">
-					<h2>Need HVAC Service Now? -- Schedule Fast and Easy Online!</h2>
-					<p><i>Name:</i><br	/><input class='i_length' type="text" name="cf_name"></p>
-					<p><i>Email Address:</i><br	/><input class='i_length' type="text" name="cf_email"></p>
-					<p><i>Phone Number:</i>&nbsp;&nbsp;&nbsp;<input type='text' maxlength='10' name='cf_phone'></p>
-					<p><i>Please briefly describe your problem:</i></p>
-					<p><textarea maxlength='500' name="cf_message"></textarea></p>
-						<input type="submit" value="Send">
-						<input type="reset" value="Clear">
-				</form>
 			</div>
 			
 			<div class='clear'></div>

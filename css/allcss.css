@@ -136,13 +136,13 @@
 	}
 
 	#home {
-		border-left:3px solid #b6caff;
+		border-left:2px solid #b6caff;
 		border-radius: 10px 0px 0px 0px;
 		-moz-border-radius: 10px 0px 0px 0px; 
 	}
 
 	#contact {
-		border-right:3px solid #b6caff;
+		border-right:2px solid #b6caff;
 		border-radius: 0px 10px 0px 0px;
 		-moz-border-radius: 0px 10px 0px 0px; 
 	}
@@ -217,9 +217,9 @@
 		z-index:3;
 		position:relative;
 		width:954px;
-		border-left: 3px solid #b6caff;
-		border-right: 3px solid #b6caff;
-		border-bottom: 3px solid #b6caff;
+		border-left: 2px solid #b6caff;
+		border-right: 2px solid #b6caff;
+		border-bottom: 2px solid #b6caff;
 		border-radius: 0px 0px 10px 10px;
 		-moz-border-radius: 0px 0px 10px 10px;
 		overflow:auto;
