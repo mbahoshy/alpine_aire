@@ -93,28 +93,31 @@
 	#navcontainer {
 		z-index:4;
 		position:relative;
-
+		float:left;
+		margin:10px 0;
 	}
 
-	.nav {
+	#navcontainer ul {
 		padding:0px;
 		list-style:none;
 		width:960px;
+		margin:0;
 	}
 
-	.nav li {
+	#navcontainer li {
 		display:inline;
 	}
 
-	.nav li a{
+
+	#navcontainer li a{
 		text-decoration:none;
-		padding:5px 0px;
+		padding:8px 0px;
 		width:190px;
 		float:left;
 		text-align:center;
 		border-left:1px solid #cccccc;
-		border-top:2px solid #b6caff;
-		border-bottom:2px solid #b6caff;
+		border-top:1px solid #b6caff;
+		border-bottom:1px solid #b6caff;
 
 	}
 
@@ -136,15 +139,15 @@
 	}
 
 	#home {
-		border-left:2px solid #b6caff;
-		border-radius: 10px 0px 0px 0px;
-		-moz-border-radius: 10px 0px 0px 0px; 
+		border-left:1px solid #b6caff !important;
+		border-radius: 5px 0px 0px 5px;
+		-moz-border-radius: 5px 0px 0px 5px; 
 	}
 
 	#contact {
-		border-right:2px solid #b6caff;
-		border-radius: 0px 10px 0px 0px;
-		-moz-border-radius: 0px 10px 0px 0px; 
+		border-right:1px solid #b6caff;
+		border-radius: 0px 5px 5px 0px;
+		-moz-border-radius: 0px 5px 5px 0px; 
 	}
 
 /*subnav */
@@ -216,16 +219,14 @@
 	#main {
 		z-index:3;
 		position:relative;
-		width:954px;
-		border-left: 2px solid #b6caff;
-		border-right: 2px solid #b6caff;
-		border-bottom: 2px solid #b6caff;
+		width:958px;
+		border: 1px solid #b6caff;
 		border-radius: 0px 0px 10px 10px;
 		-moz-border-radius: 0px 0px 10px 10px;
 		overflow:auto;
 	}
 
-	body {font-size:16px;}
+	body {font-size:17px;}
 	
 	a img{
 		border: none;

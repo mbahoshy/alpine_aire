@@ -4,7 +4,10 @@
 	.title_bar {
 		width:954px;
 		float:left;
-		background: #ffffff; /* Old browsers */
+	}
+
+	.nouser {
+				background: #ffffff; /* Old browsers */
 		background: -moz-linear-gradient(top,  #ffffff 85%, #7890cd 100%, #b6caff 100%); /* FF3.6+ */
 		background: -webkit-gradient(linear, left top, left bottom, color-stop(85%,#ffffff), color-stop(100%,#7890cd), color-stop(100%,#b6caff)); /* Chrome,Safari4+ */
 		background: -webkit-linear-gradient(top,  #ffffff 85%,#7890cd 100%,#b6caff 100%); /* Chrome10+,Safari5.1+ */
@@ -18,17 +21,13 @@
 		color:#153179;
 		font-size:25px;
 		text-align:center;
-		padding:20px 0;
+		padding:10px 0;
 		
 	}
 	
 	.tagline {
 		opacity:0.6;
 		filter:alpha(opacity=60); /* For IE8 and earlier */
-	}
-	
-	.b_name {
-		text-decoration:underline;
 	}
 	
 	
@@ -39,8 +38,8 @@
 		top:0px;
 		left:0px;
 		z-index:8;
-		border-radius: 0px 0px 5px 0px;
-		-moz-border-radius: 0px 0px 5px 0px; 
+		border-radius: 5px 0 0 5px !important;
+		border: 1px solid #acacac;
 	}
 
 	#slideshow img.active {
@@ -57,21 +56,27 @@
 	.content_box {
 		position:relative;
 		height:320px;
-		width:954px;
+		width:960px;
 		float:left;
 		border-bottom: 2px solid #acacac;
+		margin:20px 0;
+
 	}
+
+
 	.top_text {	
-		position:absolute;
+/*		position:absolute;
 		top:0px;
-		left:626px;
+		left:626px;*/
+		float:right;
 		background-color:#f8f8f8;
 		padding:10px;
 		width:320px;
 		height:300px;
 		z-index:11;
-		border-left: 2px solid #acacac;
-		border-bottom: 2px solid #acacac;
+		border: 1px solid #acacac;
+		border-radius: 0 5px 5px 0;
+		margin:0;
 	}
 	
 	.top_text li {
@@ -107,7 +112,7 @@
 
 	
 	.servicebox {
-		width:954px;
+		width:958px;
 		background-color:#e8eaf1;
 		border-bottom: 2px solid #acacac;
 	}
@@ -124,19 +129,33 @@
 	.servicebox form {
 		width:320px;
 		overflow:auto;
+/*		background-color: red;*/
+	}
+
+	.servicebox input {
+		height:25px;
+		width:298px;
+	}
+
+	.servicebox input, textarea {
+		border:1px solid rgb(202, 202, 202) !important;
+		border-radius: 3px;
+		box-shadow: 2px 2px 2px #CCCCCC;
+		margin:0 10px;
+
 	}
 	
 	.servicebox form h2 {
 		color:red;
 	}
-	
-	.i_length {
-		width:286px;
+
+	.servicebox label {
+		margin:0 10px;
 	}
 	
-	
 	.servicebox textarea {
-		width:286px;
+		padding:4px;
+		width:290px;
 		height:180px;
 	}
 	
@@ -168,13 +187,12 @@
 	}
 	
 	.merits {
-		padding:5px 10px 5px 10px;
-		margin-bottom:15px;
-		background-color:#f8f8f8;
-		border-radius: 10px;
-		border:2px solid #B6CAFF;
-		-moz-border-radius: 10px;
-		box-shadow: 10px 10px 5px #888888;
+
+
+		padding:40px 80px;
+		float:right;
+		width:478px;
+		line-height: 1.8em;
 	}
 	
 	.mertis h2 {
@@ -201,7 +219,18 @@
 	
 	.btest {
 		background-color:#e7eeff;
+		width:720px;
+		margin:0 120px;
 		overflow:auto;
+	}
+
+	.btest ul {
+		width:320px;
+		padding-left:30px;
+	}
+
+	.btest li {
+		margin:10px 0;
 	}
 	
 	.lrg_text li {
@@ -211,7 +240,9 @@
 		font-weight:bold;
 	}
 	
-	
+	.full-text {
+		width:958px;
+	}
 	
 	.sml_text {
 		padding:10px;
@@ -251,4 +282,11 @@
 		margin:7px;
 		padding-right:5px;
 	
+	}
+
+
+	.absolute {
+		position: absolute;
+		z-index: 11;
+		right:0;
 	}
