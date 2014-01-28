@@ -175,8 +175,8 @@
 					<p><label><i>Phone Number:</i></label>&nbsp;&nbsp;&nbsp;<input type='text' maxlength='10' name='cf_phone'></p>
 					<p><label><i>Please briefly describe your problem:</i></label></p>
 					<p><textarea maxlength='500' name="cf_message"></textarea></p>
-						<input type="submit" value="Send">
-						<input type="reset" value="Clear">
+						<input class='form-button fleft' type="reset" value="Clear">
+						<input class='form-button fright send' type="submit" value="Send">
 				</form>
 				<div class='merits'>
 <!-- 						<p><span class='merit_h'>"I was so very impressed </span>with the <b>promptness and quality</b> of service I received. We've always been very pleased with the work we've had done from Alpine Aire, but yesterday's service experience was phenomenal. We will gladly recommend your company to anyone we can. Thank you for having such a wonderful crew working with you!<span class='merit_name'>-Sheli from Wenatchee<span class='merit_h'>"</span></span></p> -->
@@ -188,20 +188,20 @@
 			</div>
 			
 			<div class='clear'></div>
-			<div class='sml_text fleft border_right'>
+			<div class='full-text fleft'>
 				<h2>Quick Answers</h2>
-					<ul>
-						<a href='pages/residential-repair-or-replace.php' ><img class='fleft' src='images/new_system.png'	/><li>Repair or Replace?</li></a>
-						<a href='pages/residential-filter-maintenance.php' ><img class='fleft' src='images/filter_cabinet.png'	/><li>How often should I change my filter?</li></a>
-						<a href='pages/residential-air-quality.php' ><img class='fleft' src='images/infinity_air_purifier.png'	/><li>How can I remove odor causing particles?</li></a>
-						<a href='pages/residential-energy-efficient.php' ><img class='fleft' src='images/energystar.png'	/><li>What are my Energy Efficient options?</li><a>
-						<a href='pages/residential-financing.php' ><img class='fleft' src='images/financing.png'	/><li>Do you have financing?</li></a>
-					</ul>
+					<div class='icon'>
+						<a href='pages/residential-repair-or-replace.php' ><div class='icon-card'><p>Repair or Replace?</p><img src='images/new_system.png'	/></div></a>
+						<a href='pages/residential-filter-maintenance.php' ><div class='icon-card'><p>How often should I change my filter?</p><img src='images/filter_cabinet.png'	/></div></a>
+						<a href='pages/residential-air-quality.php' ><div class='icon-card'><p>How can I remove odor causing particles?</p><img  src='images/infinity_air_purifier.png'	/></div></a>
+						<a href='pages/residential-energy-efficient.php' ><div class='icon-card'><p>What are my Energy Efficient options?</p><img src='images/energystar.png'	/></div><a>
+						<a href='pages/residential-financing.php' ><div class='icon-card'><p>Do you have financing?</p><img src='images/financing.png'	/></div></a>
+					</div>
 			</div>
 			<div class='lrg_text fright green border_bottom'>
 				<div class='sbox_text fleft'>
 					<h2>Don't take our word... <span class='underline'>Alpine Aire service speaks for itself !</span></h2>
-					<img src='images/alpine-aire-hvac-service-techs.jpg'	/>
+					<!-- <img src='images/alpine-aire-hvac-service-techs.jpg'	/> -->
 
 
 				</div>				
