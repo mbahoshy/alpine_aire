@@ -56,20 +56,21 @@
 				<div class='clear padbot'></div>
 				
 				<!-- Jacob and Phil -->
-				<div class='halftext fleft'>
-					<div itemprop='employee' itemscope itemtype="http://schema.org/Person">
-						<span itemprop='image'><img class='fleft padright' src='../images/team_pic5.jpg'	alt='Alpine Aire: Jacob Gilespie'/></span>
-						<h3><span itemprop='name'>Jacob Gilespie</span>- <i>Senior Service Technician</i></h3>
-						<p><b>Professional Credentials:</b> 06A Electrical License, NATE Certified Technician, EPA Universal Refrigeration Certificate</p>
-						<p><b>Favorite Quote:</b> "Do unto others as you would have them do unto you"</p>
-					</div>
-				</div>
+
 				<div class='halftext fleft'>
 					<div itemprop='employee' itemscope itemtype="http://schema.org/Person">
 						<span itemprop='image'><img class='fleft padright' src='../images/team_pic4.jpg'	alt='Alpine Aire: Walter Cox'/></span>
 						<h3><span itemprop='name'>Walter Cox</span>- <i>Foreman</i></h3>
 						<p><b>Professional Credentials:</b> 06A Electrical License, LEAD Certified</p>
-						<p><b>Favorite Quote:</b> "Either lead, follow, or get out of the way"</p>
+					</div>
+				</div>
+				<div class='halftext fright'>
+					<div itemprop='employee' itemscope itemtype="http://schema.org/Person">
+						<span itemprop='image'><img class='fleft padright' src='../images/team_pic7.jpg'	alt='Alpine Aire: David Alfaro'/></span>
+						<h3><span itemprop='name'>David Alfaro</span>- <i>Lead Installer</i></h3>
+						<p><b>Professional Credentials:</b> EPA Refrigeration Certificate</p>
+						<!-- <p><b>Professional Credentials:</b></p>
+						<p><b>Favorite Quote:</b></p> -->
 					</div>
 				</div>
 				<!-- <div class='halftext fright'>
@@ -129,15 +130,7 @@
 
 				<!-- Walt and David-->
 				
-				<div class='halftext fleft'>
-					<div itemprop='employee' itemscope itemtype="http://schema.org/Person">
-						<span itemprop='image'><img class='fleft padright' src='../images/team_pic7.jpg'	alt='Alpine Aire: David Alfaro'/></span>
-						<h3><span itemprop='name'>David Alfaro</span>- <i>Lead Installer</i></h3>
-						<p><b>Professional Credentials:</b> EPA Refrigeration Certificate</p>
-						<!-- <p><b>Professional Credentials:</b></p>
-						<p><b>Favorite Quote:</b></p> -->
-					</div>
-				</div>
+
 				
 				<!-- Tubbs -->
 				<div class='halftext fright'>

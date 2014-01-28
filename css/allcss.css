@@ -153,19 +153,25 @@
 /*subnav */
 
 	.subnav {
-		width:160px;
-		float:left;	
+		width:180px;
+		float:right;	
+	}
+
+	.subnav ul {
+		list-style-type: none;
+		margin:12px;
+		padding:0;
 	}
 
 	.subnav li {
-		margin-left:-15px;
+		margin:0;
 		padding:0px;
 		text-decoration:underline;
 		font-size:14px;
 		padding-bottom:10px;
 	}
 
-	.subnavtop {
+/*	.subnavtop {
 		
 		width:168px;
 		border-radius: 0px 8px 8px 0px;
@@ -175,37 +181,37 @@
 		background-image:    -moz-linear-gradient(bottom, #153179, #7890cd);
 		background-image:     -ms-linear-gradient(bottom, #153179, #7890cd);
 		background-image:      -o-linear-gradient(bottom, #153179, #7890cd);
-	}
+	}*/
 
 	.subnavtop h3 {
 		text-align:center;
-		color:#fff;
-		font-size:20px;
-		padding: 2px 0px 2px 0px;
-
+		font-size:17px;
+		padding: 2px 0px;
+		font-style: italic;
+		margin:15px 0 0 0;
+	/*	text-decoration: underline;*/
+		/*font-weight: normal;*/
 	}
 
 /*subnavtext */
 
 	.subnavtext {
 		min-height:400px;
-		width:772px;
-		float:right;
-		padding: 0px 10px 0px 10px;
+		padding:40px;
+		width:698px;
+		float:left;
 		background:#FFFFFF;
-		border-left:2px solid #cbd9ff;
 	}
 
 	.img_holder {
-		width:792px;
+		width:778px;
 		float:right;
 		background:#FFFFFF;
-		border-left:2px solid #cbd9ff;
 		border-bottom:2px solid #cbd9ff;
 	}
 	
 	.lrg_img {
-		width:792px;
+		width:778px;
 	}
 	/*.subnavtext h2 {
 		font-size:20px;
@@ -280,7 +286,7 @@
 /* about page */
 	
 	.about_box {
-		margin: 15px;
+		margin: 40px;
 	}
 	
 	/* .about_box p {
@@ -300,7 +306,7 @@
 	.beblue {background-color: #eff0ff}
 
 	.halftext {
-		width:460px;
+		width:410px;
 	}
 
 	.halftext p {
@@ -479,7 +485,13 @@
 	}
 		
 
-
+	.team-pic {
+		float:right;
+		width:320px;
+		border-radius: 10px;
+		margin:15px;
+		box-shadow: 2px 2px 2px #CCCCCC;
+	}
 
 
 

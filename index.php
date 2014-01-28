@@ -147,7 +147,7 @@
 						<p class='center'><i>Proudly serving our family and friends in North Central Washington since 1986.</i></p>
 						<!-- <p class='center'>Alpine Aire performs HVAC service in the following areas:</p> -->
 							<ul class='fleft'>
-								<li>Wenatchee Valley</li>
+								<a href='pages/wenatchee-heating-and-air-conditioning.php'><li>Wenatchee Valley</li></a>
 								<li>Cashmere</li>
 								<li>Leavenworth</li>
 								<li>Entiat</li>
@@ -179,16 +179,17 @@
 						<input class='form-button fright send' type="submit" value="Send">
 				</form>
 				<div class='merits'>
-<!-- 						<p><span class='merit_h'>"I was so very impressed </span>with the <b>promptness and quality</b> of service I received. We've always been very pleased with the work we've had done from Alpine Aire, but yesterday's service experience was phenomenal. We will gladly recommend your company to anyone we can. Thank you for having such a wonderful crew working with you!<span class='merit_name'>-Sheli from Wenatchee<span class='merit_h'>"</span></span></p> -->
-
+	
+						<p><b>Our Pledge</b></p>
 						<p>Alpine Aire offers the best customer experience possible for HVAC service, maintenance and repairs. To us, the customer experience means a few things.</p>
 						<p>Most importantly, we want the customer to feel comfortable. From the air coming out of your vents, to a friendly smile at the door. Alpine Aire staff are trained to put the customer first.</p>
 						<p>When a furnace or air conditioner breaks dows in North Central Washington, it needs to get fixed right the first time. Our knowledgeable HVAC service technicians can diagnose any make or model of heat pump, furnace, or air conditioner that runs your home.</p>
+						<p>Trust Alpine Aire with all of your heating and cooling needs!</p>
 				</div>
 			</div>
 			
 			<div class='clear'></div>
-			<div class='full-text fleft'>
+			<div class='full-text fleft margin-top-spec'>
 				<h2>Quick Answers</h2>
 					<div class='icon'>
 						<a href='pages/residential-repair-or-replace.php' ><div class='icon-card'><p>Repair or Replace?</p><img src='images/new_system.png'	/></div></a>
@@ -198,17 +199,8 @@
 						<a href='pages/residential-financing.php' ><div class='icon-card'><p>Do you have financing?</p><img src='images/financing.png'	/></div></a>
 					</div>
 			</div>
-			<div class='lrg_text fright green border_bottom'>
-				<div class='sbox_text fleft'>
-					<h2>Don't take our word... <span class='underline'>Alpine Aire service speaks for itself !</span></h2>
-					<!-- <img src='images/alpine-aire-hvac-service-techs.jpg'	/> -->
-
-
-				</div>				
-
-			</div>
 			<div class='clear'></div>
-			<div class='full-text fright'>
+			<div class='full-text fright margin-top-spec margin-bottom-spec'>
 				<h2><i>Our HVAC service department specializes in:</i></h2>
 					<div class='btest'>
 					<ul class='fleft'>
