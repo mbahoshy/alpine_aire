@@ -134,7 +134,7 @@
 			</ul>
 		</div>
 			<div class='title_bar'>
-				<h1><span class='b_name'>Alpine Aire Heating and Cooling Inc.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#124;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='tagline'><i>Breathe Naturally</i></span></h1>
+				<h1><span class='b_name'>Alpine Aire Heating &amp; Cooling Inc.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#124;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='tagline'><i>Breathe Naturally</i></span></h1>
 			</div>
 			<div class='content_box'>
 				<div id="slideshow">
@@ -148,17 +148,17 @@
 						<!-- <p class='center'>Alpine Aire performs HVAC service in the following areas:</p> -->
 							<ul class='fleft'>
 								<a href='pages/wenatchee-heating-and-air-conditioning.php'><li>Wenatchee Valley</li></a>
-								<li>Cashmere</li>
-								<li>Leavenworth</li>
-								<li>Entiat</li>
-								<li>Quincy</li>
+								<a href='pages/cashmere-heating-and-air-conditioning.php'><li>Cashmere</li></a>
+								<a href='pages/leavenworth-heating-and-air-conditioning.php'><li>Leavenworth</li></a>
+								<a href='pages/entiat-heating-and-air-conditioning.php'><li>Entiat</li></a>
+								<a href='pages/quincy-heating-and-air-conditioning.php'><li>Quincy</li></a>
 							</ul>
 							<ul class='fright'>
-								<li>Rock Island</li>
-								<li>Waterville</li>
-								<li>Cle Elum</li>
-								<li>Plain</li>
-								<li>Lake Wenatchee</li>
+								<a href='pages/rock-island-heating-and-air-conditioning.php'><li>Rock Island</li></a>
+								<a href='pages/waterville-heating-and-air-conditioning.php'><li>Waterville</li></a>
+								<a href='pages/cle-elum-heating-and-air-conditioning.php'><li>Cle Elum</li></a>
+								<a href='pages/plain-heating-and-air-conditioning.php'><li>Plain</li></a>
+								<a href='pages/lake-wenatchee-heating-and-air-conditioning.php'><li>Lake Wenatchee</li></a>
 							</ul>
 					</div>
 				</div>
@@ -180,7 +180,7 @@
 				</form>
 				<div class='merits'>
 	
-						<p><b>Our Pledge</b></p>
+						<p class='margin-ten'><b>Choose Alpine Aire Heating &amp; Cooling,</b></p>
 						<p>Alpine Aire offers the best customer experience possible for HVAC service, maintenance and repairs. To us, the customer experience means a few things.</p>
 						<p>Most importantly, we want the customer to feel comfortable. From the air coming out of your vents, to a friendly smile at the door. Alpine Aire staff are trained to put the customer first.</p>
 						<p>When a furnace or air conditioner breaks dows in North Central Washington, it needs to get fixed right the first time. Our knowledgeable HVAC service technicians can diagnose any make or model of heat pump, furnace, or air conditioner that runs your home.</p>

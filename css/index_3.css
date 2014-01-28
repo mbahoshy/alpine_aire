@@ -89,6 +89,9 @@
 		font-size:22px;
 	}
 	
+	.top_text a:visited {
+		color:blue;
+	}
 	/*.top_text h1 {
 		font-size:22px;
 		color:#7890cd;
@@ -110,6 +113,9 @@
 		width:40%;
 	}
 
+	.margin-ten {
+		margin:10px 0;
+	}
 	
 	.servicebox {
 		width:958px;
@@ -123,6 +129,7 @@
 		color:#153179;
 		font-weight:bold;
 		text-align:center;
+		margin:10px 0;
 	}
 
 	
