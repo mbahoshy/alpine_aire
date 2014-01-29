@@ -41,6 +41,8 @@
 					</div>
 				</div>
 				<div class='clear padbot'></div>
+
+
 				
 				<!-- Patty Ross -->
 				<div class='fulltext beblue fleft'>
@@ -54,7 +56,44 @@
 					</div>
 				</div>
 				<div class='clear padbot'></div>
-				
+
+
+				<div class='halftext fleft'>
+					<div itemprop='employee' itemscope itemtype="http://schema.org/Person">
+						<span itemprop='image'><img class='fleft padright' src='../images/team_pic8.jpg'	alt='Alpine Aire: Joe Ross'/></span>
+						<h3><span itemprop='name'>Joe Ross</span>- <i>Service Technician, Accounting and Sales</i></h3>
+						<p><b>Professional Credentials:</b> <span itemprop='alumniOf'>Central Washington University</span>, EPA Universal Refrigeration Certificate</p>
+						<!--<p><b>Favorite Quote:</b></p>-->
+					</div>
+				</div>
+				<div class='halftext fright'>
+					<div itemprop='employee' itemscope itemtype="http://schema.org/Person">
+						<span itemprop='image'><img class='fleft padright' src='../images/rusty.jpg'	alt='Alpine Aire: Rusty'/></span>
+						<h3><span itemprop='name'>Rusty</span>- <i>Project Manager</i></h3>
+						<p><b>Professional Credentials:</b> </p>
+						<!--<p><b>Favorite Quote:</b></p>-->
+					</div>
+				</div>
+				<div class='clear padbot'></div>
+
+
+				<div class='halftext fleft'>
+					<div itemprop='employee' itemscope itemtype="http://schema.org/Person">
+						<span itemprop='image'><img class='fleft padright' src='../images/miguel.jpg'	alt='Alpine Aire: Miguel'/></span>
+						<h3><span itemprop='name'>Miguel</span>- <i>Service Technician</i></h3>
+						<p><b>Professional Credentials:</b> </p>
+						<!--<p><b>Favorite Quote:</b></p>-->
+					</div>
+				</div>
+				<div class='halftext fright'>
+					<div itemprop='employee' itemscope itemtype="http://schema.org/Person">
+						<span itemprop='image'><img class='fleft padright' src='../images/tony.jpg'	alt='Alpine Aire: Tony'/></span>
+						<h3><span itemprop='name'>Tony</span>- <i>Service Technician</i></h3>
+						<p><b>Professional Credentials:</b> </p>
+						<!--<p><b>Favorite Quote:</b></p>-->
+					</div>
+				</div>
+				<div class='clear padbot'></div>
 				<!-- Jacob and Phil -->
 
 				<div class='halftext fleft'>
@@ -89,16 +128,8 @@
 				
 				<!-- carmen and miguel -->
 
-				<div class='halftext fleft'>
-					<div itemprop='employee' itemscope itemtype="http://schema.org/Person">
-						<span itemprop='image'><img class='fleft padright' alt='Alpine Aire: Miguel Jimenez'/></span>
-						<h3><span itemprop='name'>Miguel Jimenez</span>- <i>Service Technician</i></h3>
-						<p><b>Professional Credentials:</b> </p>
-						<!--<p><b>Favorite Quote:</b></p>-->
-					</div>
-				</div>
 				
-				<div class='halftext fright'>
+				<div class='halftext fleft'>
 					<div itemprop='employee' itemscope itemtype="http://schema.org/Person">
 						<span itemprop='image'><img class='fleft padright' src='../images/team_pic3.jpg'	alt='Alpine Aire: Carmen McCrystal'/></span>
 						<h3><span itemprop='name'>Carmen McCrystal</span>- <i>Office Manager</i></h3>
@@ -106,26 +137,17 @@
 						<!--<p><b>Favorite Quote:</b></p>-->
 					</div>
 				</div>				
-				
-				<div class='clear padbot'></div>
 
 				<!-- Matt and Joe Ross -->
-				<div class='halftext fleft'>
+				<div class='halftext fright'>
 					<div itemprop='employee' itemscope itemtype="http://schema.org/Person">
 						<span itemprop='image'><img class='fleft padright' src='../images/team_pic9.jpg'	alt='Alpine Aire: Matt Ross'/></span>
-						<h3><span itemprop='name'>Matt Ross</span>- <i>Quality Control</i></h3>
+						<h3><span itemprop='name'>Matt Ross</span>- <i>Webmaster</i></h3>
 						<p><b>Professional Credentials:</b> <span itemprop='alumniOf'>University of Washington</span>, NATE Certified Technician, EPA Universal Refrigeration Certificate, Electrical Trainee</p>
 					</div>
 				</div>
 
-				<div class='halftext fright'>
-					<div itemprop='employee' itemscope itemtype="http://schema.org/Person">
-						<span itemprop='image'><img class='fleft padright' src='../images/team_pic8.jpg'	alt='Alpine Aire: Joe Ross'/></span>
-						<h3><span itemprop='name'>Joe Ross</span>- <i>Accounting and Sales</i></h3>
-						<p><b>Professional Credentials:</b> <span itemprop='alumniOf'>Central Washington University</span>, EPA Universal Refrigeration Certificate</p>
-						<!--<p><b>Favorite Quote:</b></p>-->
-					</div>
-				</div>
+
 				<div class='clear padbot'></div>
 
 				<!-- Walt and David-->
@@ -133,7 +155,7 @@
 
 				
 				<!-- Tubbs -->
-				<div class='halftext fright'>
+				<div class='halftext fleft'>
 					<img class='fleft padright' src='../images/team_pic10.jpg' alt='Alpine Aire: Tubbs the Dog'	/>
 					<h3>Tubbs - <i>Office Greeter</i></h3>
 					<p><b>Professional Credentials:</b> Good Canine Citizenship Award </p>

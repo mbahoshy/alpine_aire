@@ -172,7 +172,7 @@
 					<h2>Schedule Fast and Easy Online!</h2>
 					<p><label><i>Name:</i></label><br	/><input class='i_length' type="text" name="cf_name"></p>
 					<p><label><i>Email Address:</i></label><br	/><input class='i_length' type="text" name="cf_email"></p>
-					<p><label><i>Phone Number:</i></label>&nbsp;&nbsp;&nbsp;<input type='text' maxlength='10' name='cf_phone'></p>
+					<p><label><i>Phone Number:</i></label><br /><input type='text' maxlength='10' name='cf_phone'></p>
 					<p><label><i>Please briefly describe your problem:</i></label></p>
 					<p><textarea maxlength='500' name="cf_message"></textarea></p>
 						<input class='form-button fleft' type="reset" value="Clear">
