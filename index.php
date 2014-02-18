@@ -211,7 +211,14 @@
 						<a href=''><li>Ductless air conditioning</li>
 						<a href=''><li>Heat Recovery Ventilators</li>
 					</ul>
-					<ul class='fright'>
+					<ul class='fleft'>
+						<a href=''><li>Gas Furnaces</li></a>		
+						<a href=''><li>Boilers</li></a>
+						<a href=''><li>Chillers</li></a>
+						<a href=''><li>Refrigeration and Freezers</li></a>
+						<a href=''><li>Gas piping</li></a>
+						<a href=''><li>and much more!!!</li></a>
+					</ul>
 						<a href=''><li>Gas Furnaces</li></a>		
 						<a href=''><li>Boilers</li></a>
 						<a href=''><li>Chillers</li></a>
