@@ -204,20 +204,20 @@
 				<h2><i>Our HVAC service department specializes in:</i></h2>
 					<div class='btest'>
 					<ul class='fleft'>
-						<li>Air conditioning repair, maintenance, and installation</li>
-						<li>Warehouse heating</li>
-						<li>Gas heating</li>
-						<li>Radiant heat</li>
-						<li>Ductless air conditioning</li>
-						<li>Heat Recovery Ventilators</li>
+						<a href=''><li>Air Conditioners</li></a>
+						<a href=''><li>Heat Pumps</li>
+						<a href=''><li>Electric Heat</li>
+						<a href=''><li>Radiant Heat</li>
+						<a href=''><li>Ductless air conditioning</li>
+						<a href=''><li>Heat Recovery Ventilators</li>
 					</ul>
 					<ul class='fright'>
-						<li>HVAC service of all makes and models of furnaces</li>		
-						<li>Boiler</li>
-						<li>Chillers</li>
-						<li>Refrigeration and Freezers</li>
-						<li>Gas piping</li>
-						<li>and much more!!!</li>
+						<a href=''><li>Gas Furnaces</li></a>		
+						<a href=''><li>Boilers</li></a>
+						<a href=''><li>Chillers</li></a>
+						<a href=''><li>Refrigeration and Freezers</li></a>
+						<a href=''><li>Gas piping</li></a>
+						<a href=''><li>and much more!!!</li></a>
 					</ul>
 					</div>
 			</div>

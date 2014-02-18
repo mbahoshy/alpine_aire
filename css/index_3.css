@@ -248,14 +248,14 @@
 	
 	.btest {
 		background-color:#e7eeff;
-		width:720px;
-		margin:0 120px;
-		overflow:auto;
+		width:900px;
+		margin:0 28px;
+		float:left;
 	}
 
 	.btest ul {
-		width:320px;
-		padding-left:30px;
+		width:300px;
+		
 	}
 
 	.btest li {
