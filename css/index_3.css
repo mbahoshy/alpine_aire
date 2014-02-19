@@ -1,3 +1,8 @@
+body a {
+	text-decoration: none;
+}
+
+
 
 /* title bar */
 
@@ -254,12 +259,13 @@
 	}
 
 	.btest ul {
-		width:300px;
-		
+		width: 260px;
+		margin: 0;
+		padding: 0 0 0 40px;	
 	}
 
 	.btest li {
-		margin:10px 0;
+		margin:15px 0;
 	}
 	
 	.lrg_text li {

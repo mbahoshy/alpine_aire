@@ -30,7 +30,7 @@
 			</div>
 
 			<div class='subnavtext'>
-				<img  class='team-pic' src='../images/alpine-aire-hvac-service-techs.jpg'	/>
+				<img  class='wide-pic' src='../images/boiler.jpg'	/>
 				
 				<p>Alpine Aire performs top notch maintenace, repairs, and installations of boilers</p>
 				

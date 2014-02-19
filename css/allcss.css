@@ -494,6 +494,13 @@
 	}
 
 
+	.wide-pic {
+		float:right;
+		width:420px;
+		border-radius: 10px;
+		margin:15px;
+		box-shadow: 2px 2px 2px #CCCCCC;
+	}	
 
 	/*	i believe all this to be NA
 	

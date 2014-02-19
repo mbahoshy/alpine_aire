@@ -163,8 +163,8 @@
 					</div>
 				</div>
 			</div>
-		<div id='main' class='white'>
 
+		<div id='main' class='white'>
 
 			<!-- Schedule online -->
 			<div class='servicebox fleft'>
@@ -203,29 +203,30 @@
 			<div class='full-text fright margin-top-spec margin-bottom-spec'>
 				<h2><i>Our HVAC service department specializes in:</i></h2>
 					<div class='btest'>
-					<ul class='fleft'>
-						<a href=''><li>Air Conditioners</li></a>
-						<a href=''><li>Heat Pumps</li>
-						<a href=''><li>Electric Heat</li>
-						<a href=''><li>Radiant Heat</li>
-						<a href=''><li>Ductless air conditioning</li>
-						<a href=''><li>Heat Recovery Ventilators</li>
-					</ul>
-					<ul class='fleft'>
-						<a href=''><li>Gas Furnaces</li></a>		
-						<a href=''><li>Boilers</li></a>
-						<a href=''><li>Chillers</li></a>
-						<a href=''><li>Refrigeration and Freezers</li></a>
-						<a href=''><li>Gas piping</li></a>
-						<a href=''><li>and much more!!!</li></a>
-					</ul>
-						<a href=''><li>Gas Furnaces</li></a>		
-						<a href=''><li>Boilers</li></a>
-						<a href=''><li>Chillers</li></a>
-						<a href=''><li>Refrigeration and Freezers</li></a>
-						<a href=''><li>Gas piping</li></a>
-						<a href=''><li>and much more!!!</li></a>
-					</ul>
+						<ul class='fleft'>
+							<a href='services/wenatchee-air-conditioners.php'><li>Air Conditioners</li></a>
+							<a href='services/wenatchee-heat-pumps.php'><li>Heat Pumps</li>
+							<a href='services/wenatchee-electric-heat.php'><li>Electric Heat</li>
+							<a href='services/wenatchee-radiant-heat.php'><li>Radiant Heat</li>
+							<a href='services/wenatchee-ductless-air-conditioning.php'><li>Ductless air conditioning</li>
+							<a href='services/wenatchee-heat-recovery-ventilator.php'><li>Heat Recovery Ventilators</li>
+						</ul>
+						<ul class='fleft'>
+							<a href='services/wenatchee-gas-furnaces.php'><li>Gas Furnaces</li></a>		
+							<a href='services/wenatchee-boilers.php'><li>Boilers</li></a>
+							<a href='services/wenatchee-chillers.php'><li>Chillers</li></a>
+							<a href=''><li>Refrigeration and Freezers</li></a>
+							<a href='services/wenatchee-gas-piping.php'><li>Gas piping</li></a>
+							<a href='services/wenatchee-hot-water-tanks.php'><li>Hot Water Tanks</li></a>
+						</ul>
+						<ul class='fleft'>
+							<a href='services/wenatchee-server-room-air-conditioner.php'><li>Server Room Climate Control</li></a>
+							<a href=''><li>Rooftop Units</li></a>		
+							<a href=''><li>Swamp Coolers</li></a>
+							<a href='services/wenatchee-custom-ductwork.php'><li>Custom Ductwork</li></a>
+							<a href=''><li>Gas piping</li></a>
+							<a href=''><li>and much more!</li></a>
+						</ul>
 					</div>
 			</div>
 			
