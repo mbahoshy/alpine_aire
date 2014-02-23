@@ -209,14 +209,14 @@
 			<div class='full-text fright margin-top-spec margin-bottom-spec'>
 
 				<h2><i>Our HVAC service department specializes in:</i></h2>
-					<div class='btest'>
+<!-- 					<div class='btest'>
 						<ul class='fleft'>
 							<a href='services/wenatchee-air-conditioners.php'><li>Air Conditioners</li></a>
-							<a href='services/wenatchee-heat-pumps.php'><li>Heat Pumps</li>
-							<a href='services/wenatchee-electric-heat.php'><li>Electric Heat</li>
-							<a href='services/wenatchee-radiant-heat.php'><li>Radiant Heat</li>
-							<a href='services/wenatchee-ductless-air-conditioning.php'><li>Ductless air conditioning</li>
-							<a href='services/wenatchee-heat-recovery-ventilator.php'><li>Heat Recovery Ventilators</li>
+							<a href='services/wenatchee-heat-pumps.php'><li>Heat Pumps</li></a>
+							<a href='services/wenatchee-electric-heat.php'><li>Electric Heat</li></a>
+							<a href='services/wenatchee-radiant-heat.php'><li>Radiant Heat</li></a>
+							<a href='services/wenatchee-ductless-air-conditioning.php'><li>Ductless air conditioning</li></a>
+							<a href='services/wenatchee-heat-recovery-ventilator.php'><li>Heat Recovery Ventilators</li></a>
 						</ul>
 						<ul class='fleft'>
 							<a href='services/wenatchee-gas-furnaces.php'><li>Gas Furnaces</li></a>		
@@ -231,10 +231,39 @@
 							<a href=''><li>Rooftop Units</li></a>		
 							<a href=''><li>Swamp Coolers</li></a>
 							<a href='services/wenatchee-custom-ductwork.php'><li>Custom Ductwork</li></a>
-							<a href=''><li>Gas piping</li></a>
+							<a href=''><li>Indoor Air Quality</li></a>
 							<a href=''><li>and much more!</li></a>
 						</ul>
+					</div> -->
+
+					<div class='btest'>
+						<ul class='fleft'>
+							<li>Air Conditioners</li>
+							<li>Heat Pumps</li>
+							<li>Electric Heat</li>
+							<li>Radiant Heat</li>
+							<li>Ductless air conditioning</li>
+							<li>Heat Recovery Ventilators</li>
+						</ul>
+						<ul class='fleft'>
+							<li>Gas Furnaces</li>
+							<li>Boilers</li>
+							<li>Chillers</li>
+							<li>Refrigeration and Freezers</li>
+							<li>Gas piping</li>
+							<li>Hot Water Tanks</li>
+						</ul>
+						<ul class='fleft'>
+							<li>Server Room Climate Control</li>
+							<li>Rooftop Units</li>		
+							<li>Swamp Coolers</li>
+							<li>Custom Ductwork</li>
+							<li>Indoor Air Quality</li>
+							<li>and much more!</li>
+						</ul>
 					</div>
+
+
 			</div>
 			
 		</div>
