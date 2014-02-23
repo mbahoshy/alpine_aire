@@ -360,7 +360,11 @@
 	.border_bottom {
 		border-bottom: 2px solid #acacac;
 	}
-		
+	
+	.center {
+		text-align: center;
+	}
+	
 	.green {
 		background: #ffffff; /* Old browsers */
 		background: -moz-linear-gradient(top,  #ffffff 44%, #defcdb 100%, #94d680 100%); /* FF3.6+ */

@@ -189,6 +189,12 @@
 			</div>
 			
 			<div class='clear'></div>
+			<div class='full-text fleft margin-top-spec center'>
+				<p>The Wenatchee Valley is a <b>great place to work and live</b>. <i>Please support other local businesses and friends of Alpine Aire!</i></p>
+				<p><u><a href='pages/friends-of-alpine-aire.php'>Click here to find other great services in the Wenatchee area.</a></u></p>
+
+			</div>
+			<div class='clear'></div>
 			<div class='full-text fleft margin-top-spec'>
 				<h2>Quick Answers</h2>
 					<div class='icon'>
@@ -201,8 +207,6 @@
 			</div>
 			<div class='clear'></div>
 			<div class='full-text fright margin-top-spec margin-bottom-spec'>
-				<p>The Wenatchee Valley is such a great place to work and live. Please support other local businesses and friends of Alpine Aire!</p>
-				<p><a href='pages/friends-of-alpine-aire.php'>Click Here</a> to find other great services in the Wenatchee area</p>
 
 				<h2><i>Our HVAC service department specializes in:</i></h2>
 					<div class='btest'>
