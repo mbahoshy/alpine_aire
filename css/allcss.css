@@ -520,6 +520,7 @@
 		border: 1px solid #CCCCCC;
 		padding:15px;
 		box-shadow: 2px 2px 2px #CCCCCC;
+		border-radius: 10px;
 	}
 
 	.alpine-friends p {
