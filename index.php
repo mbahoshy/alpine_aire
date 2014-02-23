@@ -201,6 +201,9 @@
 			</div>
 			<div class='clear'></div>
 			<div class='full-text fright margin-top-spec margin-bottom-spec'>
+				<p>The Wenatchee Valley is such a great place to work and live. Please support other local businesses and friends of Alpine Aire!</p>
+				<p><a href=''>Click Here</a> to find other great services in the Wenatchee area</p>
+				
 				<h2><i>Our HVAC service department specializes in:</i></h2>
 					<div class='btest'>
 						<ul class='fleft'>
