@@ -500,7 +500,32 @@
 		border-radius: 10px;
 		margin:15px;
 		box-shadow: 2px 2px 2px #CCCCCC;
-	}	
+	}
+
+	.alpine-friends {
+		padding:0;
+		margin:0;
+	}
+
+	.alpine-friends li {
+		list-style: none;
+		float:left;
+		width:277px;
+		background-color: #F8F8F8;
+		margin:20px;
+		border: 1px solid #CCCCCC;
+		padding:15px;
+		box-shadow: 2px 2px 2px #CCCCCC;
+	}
+
+	.alpine-friends p {
+		font-style: italic;
+	}
+
+	.alpine-friends span {
+		font-weight: bold;
+	}
+
 
 	/*	i believe all this to be NA
 	
