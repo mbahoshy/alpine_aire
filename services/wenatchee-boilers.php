@@ -30,7 +30,7 @@
 			</div>
 
 			<div class='subnavtext'>
-				<img  class='wide-pic' src='../images/boiler.jpg'	/>
+				<img  class='wide-pic' src='../images/boiler-wenatchee.jpg'	/>
 				
 				<p>Alpine Aire performs top notch maintenace, repairs, and installations of boilers</p>
 				

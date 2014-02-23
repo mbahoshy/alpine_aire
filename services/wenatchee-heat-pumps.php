@@ -30,7 +30,7 @@
 			</div>
 
 			<div class='subnavtext'>
-				<img  class='wide-pic' src='../images/heat-pumps-cashmere.jpg'	/>
+				<img  class='wide-pic' src='../images/heat-pump.jpg'	/>
 				
 				<p>Alpine Aire performs top notch maintenace, repairs, and installations of Heat Pumps.</p>
 				
