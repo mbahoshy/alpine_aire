@@ -40,7 +40,7 @@
 				<p>We service air conditioning units and furnaces of all makes and models including:
 					<ul>
 						<li>Carrier / Payne / Bryant</li>
-						<li>Train / American Standard</li>
+						<li>Trane / American Standard</li>
 						<li>Rheem</li>
 						<li>Lennox</li>
 						<li>Coleman</li>
