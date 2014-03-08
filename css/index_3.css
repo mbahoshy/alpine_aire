@@ -342,3 +342,44 @@ body a {
 	.margin-bottom-spec {
 		margin-bottom: 60px;
 	}
+
+	.pm {
+		float:right;
+		background-color: white;
+		border:2px solid red;
+		border-radius: 5px;
+		width:336px;
+		/*padding:10px;*/
+		height:318px;
+	}
+
+	.pm h3 {
+		width:336px;
+		text-align: center;
+		color: blue;
+	}
+
+	.pm p {
+		margin:40px;
+		line-height: 1.5em;
+		text-align: justify;
+
+	}
+
+	.sys-rep {
+		width:338px;
+		border:1px solid #CCCCCC;
+		height:250px;
+		float:right;
+	}
+
+	.sys-rep p {
+		margin:40px;
+		line-height: 1.5em;
+		text-align: justify;
+
+	}
+
+	.sys-rep h3 {
+		text-align: center;
+	}

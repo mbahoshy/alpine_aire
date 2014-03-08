@@ -143,23 +143,11 @@
 					<img src="images/alpine-slideshow-3.jpg" alt="HVAC New Construction Job" class='round'/>
 				</div>
 				<div class='absolute'>
-					<div class='top_text'>
-						<p class='center'><i>Proudly serving our family and friends in North Central Washington since 1986.</i></p>
-						<!-- <p class='center'>Alpine Aire performs HVAC service in the following areas:</p> -->
-							<ul class='fleft'>
-								<a href='pages/wenatchee-heating-and-air-conditioning.php'><li>Wenatchee Valley</li></a>
-								<a href='pages/cashmere-heating-and-air-conditioning.php'><li>Cashmere</li></a>
-								<a href='pages/leavenworth-heating-and-air-conditioning.php'><li>Leavenworth</li></a>
-								<a href='pages/entiat-heating-and-air-conditioning.php'><li>Entiat</li></a>
-								<a href='pages/quincy-heating-and-air-conditioning.php'><li>Quincy</li></a>
-							</ul>
-							<ul class='fright'>
-								<a href='pages/rock-island-heating-and-air-conditioning.php'><li>Rock Island</li></a>
-								<a href='pages/waterville-heating-and-air-conditioning.php'><li>Waterville</li></a>
-								<a href='pages/cle-elum-heating-and-air-conditioning.php'><li>Cle Elum</li></a>
-								<a href='pages/plain-heating-and-air-conditioning.php'><li>Plain</li></a>
-								<a href='pages/lake-wenatchee-heating-and-air-conditioning.php'><li>Lake Wenatchee</li></a>
-							</ul>
+					<div class='pm'>
+	
+						<h3>Spring is right around the corner!</h3>
+						<p>Don't wait for your AC to fail during the hot summer months... schedule a preventative maintenance today!</p>
+						<p>Ask about our <em>Spring Pricing!</em></p>
 					</div>
 				</div>
 			</div>
@@ -178,15 +166,30 @@
 						<input class='form-button fleft' type="reset" value="Clear">
 						<input class='form-button fright send' type="submit" value="Send">
 				</form>
-				<div class='merits'>
-	
-						<p class='margin-ten'><b>Choose Alpine Aire Heating &amp; Cooling,</b></p>
-						<p>Alpine Aire offers the best customer experience possible for HVAC service, maintenance and repairs. To us, the customer experience means a few things.</p>
-						<p>Most importantly, we want the customer to feel comfortable. From the air coming out of your vents, to a friendly smile at the door. Alpine Aire staff are trained to put the customer first.</p>
-						<p>When a furnace or air conditioner breaks dows in North Central Washington, it needs to get fixed right the first time. Our knowledgeable HVAC service technicians can diagnose any make or model of heat pump, furnace, or air conditioner that runs your home.</p>
-						<p>Trust Alpine Aire with all of your heating and cooling needs!</p>
+				<div class='sys-rep'>
+					<h3>Need a quote?</h3>
+					<p>Call today for a FREE quote from the most trusted name in the business</p>
 				</div>
+
 			</div>
+			<div class='top_text'>
+						<p class='center'><i>Proudly serving our family and friends in North Central Washington since 1986.</i></p>
+						<!-- <p class='center'>Alpine Aire performs HVAC service in the following areas:</p> -->
+							<ul class='fleft'>
+								<a href='pages/wenatchee-heating-and-air-conditioning.php'><li>Wenatchee Valley</li></a>
+								<a href='pages/cashmere-heating-and-air-conditioning.php'><li>Cashmere</li></a>
+								<a href='pages/leavenworth-heating-and-air-conditioning.php'><li>Leavenworth</li></a>
+								<a href='pages/entiat-heating-and-air-conditioning.php'><li>Entiat</li></a>
+								<a href='pages/quincy-heating-and-air-conditioning.php'><li>Quincy</li></a>
+							</ul>
+							<ul class='fright'>
+								<a href='pages/rock-island-heating-and-air-conditioning.php'><li>Rock Island</li></a>
+								<a href='pages/waterville-heating-and-air-conditioning.php'><li>Waterville</li></a>
+								<a href='pages/cle-elum-heating-and-air-conditioning.php'><li>Cle Elum</li></a>
+								<a href='pages/plain-heating-and-air-conditioning.php'><li>Plain</li></a>
+								<a href='pages/lake-wenatchee-heating-and-air-conditioning.php'><li>Lake Wenatchee</li></a>
+							</ul>
+					</div>
 			
 			<div class='clear'></div>
 			<div class='full-text fleft margin-top-spec center'>
